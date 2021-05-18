@@ -22,7 +22,7 @@
 登录地址/admin,初始密码:oneindex
 
 ### 特殊文件  
-> 1、加密当前目录:OneDrive中目标目录下添加.password文件，内容为密码  	
+> 1、加密当前目录:OneDrive中目标目录下添加.password文件，内容为密码  
 > 2、目录页顶部添加说明页:OneDrive中目标目录下添加HEAD.md文件
 
 ### 重新安装  
