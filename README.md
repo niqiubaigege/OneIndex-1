@@ -15,6 +15,7 @@
 	2、目录 config/ 和 cache/ 可读可写
 	
 ### Apache伪静态去除url中'/?/'
+
 	```
 	<IfModule mod_rewrite.c>
 		RewriteEngine on
