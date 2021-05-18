@@ -1,6 +1,6 @@
 ### 权限申请
 
-1、登录 https://portal.azure.com
+>1、登录 https://portal.azure.com
 	
 2、应用注册 - 新注册 - 填写应用名称 - 账户类型点选C - 重定向URI(即redirect_uri)选Web,值填写部署地址或本机http://localhost - 保存 client_id
 	
