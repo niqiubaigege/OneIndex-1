@@ -2,7 +2,7 @@
 > 1、登录 https://portal.azure.com  
 > 2、应用注册 - 新注册 - 填写应用名称 - 账户类型点选C - 重定向URI(即redirect_uri)选Web,值填写部署地址或本机http://localhost - 保存 client_id  
 > 3、证书和密码 - 新客户端密码 - 设置有效期 - 保存 client_secret  
-> 4、API权限 - 添加权限 - Microsoft Graph 权限 - 勾选 Files.Read、Files.ReadWrite、offline_access权限、保存  
+> 4、API权限 - 添加权限 - Microsoft Graph 权限 - 选 Delegated permissions - 勾选 Files.Read、Files.ReadWrite、offline_access权限、保存  
 
 ### 部署  	
 > 1、环境要求 php5.5+ & curl拓展开启  
